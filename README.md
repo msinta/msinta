@@ -6,7 +6,7 @@
 ### <div align="center">I'm [Mohamed](https://msinta.github.io/profile/), a full-stack freelance developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Sinta](https://teamsinta.com/Website/sinta/)  
+- 🔭 I’m currently working on [Sinta](https://sintaapp.com/)  
   
 
 - 🌱 I’m currently learning Ruby on Rails, Javascript, & React  
