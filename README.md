@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Sinta](https://sintaapp.com/)  
   
 
-- 🌱 I’m currently learning Javascript, React, & Java.
+- 🌱 I’m currently learning Python, & Java.
   
 
 - ❓ Ask me about anything related to SaaS, technology, or programming.  
