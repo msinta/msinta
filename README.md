@@ -14,8 +14,6 @@
 
 - ❓ Ask me about anything related to SaaS, technology, or programming.  
   
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
