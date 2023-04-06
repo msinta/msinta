@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mohamed, a full-stack freelance developer 👨‍💻<br><br>🔭 I’m currently working on Sinta<br>🌱 I’m currently learning Python, & Java.<br>❓ Ask me about anything related to SaaS, technology, or programming.
+I'm Mohamed, a full-stack freelance developer 👨‍💻<br><br>🔭 I’m currently working on Sinta<br>🌱 I’m currently learning Python, & Djano.<br>❓ Ask me about anything related to SaaS, technology, or programming.
 
 
 ## 🌐 Socials:
